@@ -15,7 +15,7 @@ Without showing ("Try, catch") error
 
 
 <details>
-</summary> Code </summary>
+<summary> Code </summary>
   
 <img width="760" height="777" alt="Image" src="https://github.com/user-attachments/assets/c27c8399-6461-494b-bc98-5897e8f1a9d3" />
 <img width="1080" height="875" alt="Image" src="https://github.com/user-attachments/assets/33e3655a-0645-40bf-b1fc-bc4b10a62bdd" />
