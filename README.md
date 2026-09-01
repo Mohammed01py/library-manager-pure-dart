@@ -12,8 +12,11 @@ With showing ("Try, catch") error
 Without showing ("Try, catch") error
 <img width="1320" height="967" alt="Image" src="https://github.com/user-attachments/assets/1b5d697e-a7b3-4380-aa75-363e17f421b8" />
 
+
+
 <details>
-</summary> ## Code </summary>
+</summary> Code </summary>
+  
 <img width="760" height="777" alt="Image" src="https://github.com/user-attachments/assets/c27c8399-6461-494b-bc98-5897e8f1a9d3" />
 <img width="1080" height="875" alt="Image" src="https://github.com/user-attachments/assets/33e3655a-0645-40bf-b1fc-bc4b10a62bdd" />
 <img width="1159" height="625" alt="Image" src="https://github.com/user-attachments/assets/c6a2db73-97ab-45f7-a23c-0e3216f15e0e" />
@@ -23,6 +26,8 @@ Without showing ("Try, catch") error
 <img width="409" height="175" alt="Image" src="https://github.com/user-attachments/assets/e4f17dc2-ae5c-4f14-8b9d-4ec052ec0ef6" />
 <img width="1194" height="869" alt="Image" src="https://github.com/user-attachments/assets/3506728f-b4fa-4922-94a8-60128edd0688" />
 </details>
+
+
 
 ## Features ✨
 - Add and manage books with title, author, and publication year
